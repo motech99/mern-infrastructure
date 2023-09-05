@@ -6,9 +6,9 @@ a future MERN-Stack project
 
 ## Using mern-infrastructure to Create MERN-Stack Projects 
 
-1. Here’s the process to create a new MERN-Stack project that starts with the infrastructure code:
+Here’s the process to create a new MERN-Stack project that starts with the infrastructure code:
 
-Clone the mern-infrastructure repo: git clone <url of mern-infrastructure> <name-of-project>
+1. Clone the mern-infrastructure repo: git clone <url of mern-infrastructure> <name-of-project>
 Note that the folder created will be same as <name-of-project> instead of mern-infrastructure
 
 2. cd < name-of-project >
